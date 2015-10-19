@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4048416B-42AD-4241-AA81-4AD603D8C966</string>
+	<key>IDESourceControlProjectName</key>
+	<string>medtronic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08640B46-D672-40BB-B4A3-39B1A729A5FD</key>
+		<string>ssh://git.eq6.pl/medtronic-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>medtronic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08640B46-D672-40BB-B4A3-39B1A729A5FD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.eq6.pl/medtronic-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08640B46-D672-40BB-B4A3-39B1A729A5FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08640B46-D672-40BB-B4A3-39B1A729A5FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>medtronic-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
